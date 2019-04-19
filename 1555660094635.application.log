@@ -1,0 +1,7 @@
+
+09:48:08	click	// 
+	
+09:48:06	GET =>	http://192.168.1.33:8081/sockjs-node/info	
+09:48:06	GET =>	http://localhost:8081/sockjs-node/info	
+09:48:06	info	Download the Vue Devtools extension for a better development experience: https://github.com/vuejs/vue-devtools	
+09:48:06	url	http://localhost:8081/	
